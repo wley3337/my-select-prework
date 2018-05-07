@@ -9,4 +9,6 @@ def my_select(collection)
     else
       i += 1 
     end)
+  end
+  results_array
 end
